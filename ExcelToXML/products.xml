@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<v3:procedures xmlns:v3="http://healthinsurance.oracle.com/procedures/v3">
+  <v3:header flexCodeDefinitionCode="CPT_CODES"/>
+  <v3:procedure code="0509T" description="ELECTRORETINOGRAPHY (ERG) WITH INTERPRETATION AND REPORT, PATTERN (PERG)" elementId="ID_0" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ELECTRORETINOGRAPHY (ERG) WITH INTERPRETATION AND REPORT, PATTERN (PERG)</v3:procedure>
+  <v3:procedure code="0510T" description="REMOVAL OF SINUS TARSI IMPLANT" elementId="ID_1" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REMOVAL OF SINUS TARSI IMPLANT</v3:procedure>
+  <v3:procedure code="0511T" description="REMOVAL AND REINSERTION OF SINUS TARSI IMPLANT" elementId="ID_2" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REMOVAL AND REINSERTION OF SINUS TARSI IMPLANT</v3:procedure>
+  <v3:procedure code="0512T" description="EXTRACORPOREAL SHOCK WAVE FOR INTEGUMENTARY WOUND HEALING, HIGH ENERGY, INCLUDING TOPICAL " elementId="ID_3" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>EXTRACORPOREAL SHOCK WAVE FOR INTEGUMENTARY WOUND HEALING, HIGH ENERGY, INCLUDING TOPICAL </v3:procedure>
+  <v3:procedure code="0513T" description="EXTRACORPOREAL SHOCK WAVE FOR INTEGUMENTARY WOUND HEALING, HIGH ENERGY, INCLUDING TOPICAL " elementId="ID_4" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>EXTRACORPOREAL SHOCK WAVE FOR INTEGUMENTARY WOUND HEALING, HIGH ENERGY, INCLUDING TOPICAL </v3:procedure>
+  <v3:procedure code="0514T" description="INTRAOPERATIVE VISUAL AXIS IDENTIFICATION USING PATIENT FIXATION (LIST SEPARATELY IN ADDIT" elementId="ID_5" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INTRAOPERATIVE VISUAL AXIS IDENTIFICATION USING PATIENT FIXATION (LIST SEPARATELY IN ADDIT</v3:procedure>
+  <v3:procedure code="0515T" description="INSERTION OF WIRELESS CARDIAC STIMULATOR FOR LEFT VENTRICULAR PACING, INCLUDING DEVICE INT" elementId="ID_6" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INSERTION OF WIRELESS CARDIAC STIMULATOR FOR LEFT VENTRICULAR PACING, INCLUDING DEVICE INT</v3:procedure>
+  <v3:procedure code="0516T" description="INSERTION OF WIRELESS CARDIAC STIMULATOR FOR LEFT VENTRICULAR PACING, INCLUDING DEVICE INT" elementId="ID_7" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INSERTION OF WIRELESS CARDIAC STIMULATOR FOR LEFT VENTRICULAR PACING, INCLUDING DEVICE INT</v3:procedure>
+  <v3:procedure code="0517T" description="INSERTION OF WIRELESS CARDIAC STIMULATOR FOR LEFT VENTRICULAR PACING, INCLUDING DEVICE INT" elementId="ID_8" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INSERTION OF WIRELESS CARDIAC STIMULATOR FOR LEFT VENTRICULAR PACING, INCLUDING DEVICE INT</v3:procedure>
+  <v3:procedure code="0518T" description="REMOVAL OF ONLY PULSE GENERATOR COMPONENT(S) (BATTERY AND/OR TRANSMITTER) OF WIRELESS CARD" elementId="ID_9" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REMOVAL OF ONLY PULSE GENERATOR COMPONENT(S) (BATTERY AND/OR TRANSMITTER) OF WIRELESS CARD</v3:procedure>
+  <v3:procedure code="0519T" description="REMOVAL AND REPLACEMENT OF WIRELESS CARDIAC STIMULATOR FOR LEFT VENTRICULAR PACING; PULSE " elementId="ID_10" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REMOVAL AND REPLACEMENT OF WIRELESS CARDIAC STIMULATOR FOR LEFT VENTRICULAR PACING; PULSE </v3:procedure>
+  <v3:procedure code="0520T" description="REMOVAL AND REPLACEMENT OF WIRELESS CARDIAC STIMULATOR FOR LEFT VENTRICULAR PACING; PULSE " elementId="ID_11" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REMOVAL AND REPLACEMENT OF WIRELESS CARDIAC STIMULATOR FOR LEFT VENTRICULAR PACING; PULSE </v3:procedure>
+  <v3:procedure code="0521T" description="INTERROGATION DEVICE EVALUATION (IN PERSON) WITH ANALYSIS, REVIEW AND REPORT, INCLUDES CON" elementId="ID_12" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INTERROGATION DEVICE EVALUATION (IN PERSON) WITH ANALYSIS, REVIEW AND REPORT, INCLUDES CON</v3:procedure>
+  <v3:procedure code="0522T" description="PROGRAMMING DEVICE EVALUATION (IN PERSON) WITH ITERATIVE ADJUSTMENT OF THE IMPLANTABLE DEV" elementId="ID_13" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>PROGRAMMING DEVICE EVALUATION (IN PERSON) WITH ITERATIVE ADJUSTMENT OF THE IMPLANTABLE DEV</v3:procedure>
+  <v3:procedure code="0523T" description="INTRAPROCEDURAL CORONARY FRACTIONAL FLOW RESERVE (FFR) WITH 3D FUNCTIONAL MAPPING OF COLOR" elementId="ID_14" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INTRAPROCEDURAL CORONARY FRACTIONAL FLOW RESERVE (FFR) WITH 3D FUNCTIONAL MAPPING OF COLOR</v3:procedure>
+  <v3:procedure code="0524T" description="ENDOVENOUS CATHETER DIRECTED CHEMICAL ABLATION WITH BALLOON ISOLATION OF INCOMPETENT EXTRE" elementId="ID_15" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ENDOVENOUS CATHETER DIRECTED CHEMICAL ABLATION WITH BALLOON ISOLATION OF INCOMPETENT EXTRE</v3:procedure>
+  <v3:procedure code="0525T" description="INSERTION OR REPLACEMENT OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM, INCLUDING TESTING OF " elementId="ID_16" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INSERTION OR REPLACEMENT OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM, INCLUDING TESTING OF </v3:procedure>
+  <v3:procedure code="0526T" description="INSERTION OR REPLACEMENT OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM, INCLUDING TESTING OF " elementId="ID_17" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INSERTION OR REPLACEMENT OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM, INCLUDING TESTING OF </v3:procedure>
+  <v3:procedure code="0527T" description="INSERTION OR REPLACEMENT OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM, INCLUDING TESTING OF " elementId="ID_18" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INSERTION OR REPLACEMENT OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM, INCLUDING TESTING OF </v3:procedure>
+  <v3:procedure code="0528T" description="PROGRAMMING DEVICE EVALUATION (IN PERSON) OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM WITH " elementId="ID_19" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>PROGRAMMING DEVICE EVALUATION (IN PERSON) OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM WITH </v3:procedure>
+  <v3:procedure code="0529T" description="INTERROGATION DEVICE EVALUATION (IN PERSON) OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM WIT" elementId="ID_20" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INTERROGATION DEVICE EVALUATION (IN PERSON) OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM WIT</v3:procedure>
+  <v3:procedure code="0530T" description="REMOVAL OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM, INCLUDING ALL IMAGING SUPERVISION AND " elementId="ID_21" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REMOVAL OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM, INCLUDING ALL IMAGING SUPERVISION AND </v3:procedure>
+  <v3:procedure code="0531T" description="REMOVAL OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM, INCLUDING ALL IMAGING SUPERVISION AND " elementId="ID_22" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REMOVAL OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM, INCLUDING ALL IMAGING SUPERVISION AND </v3:procedure>
+  <v3:procedure code="0532T" description="REMOVAL OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM, INCLUDING ALL IMAGING SUPERVISION AND " elementId="ID_23" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REMOVAL OF INTRACARDIAC ISCHEMIA MONITORING SYSTEM, INCLUDING ALL IMAGING SUPERVISION AND </v3:procedure>
+  <v3:procedure code="0533T" description="CONTINUOUS RECORDING OF MOVEMENT DISORDER SYMPTOMS, INCLUDING BRADYKINESIA, DYSKINESIA, AN" elementId="ID_24" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CONTINUOUS RECORDING OF MOVEMENT DISORDER SYMPTOMS, INCLUDING BRADYKINESIA, DYSKINESIA, AN</v3:procedure>
+  <v3:procedure code="0534T" description="CONTINUOUS RECORDING OF MOVEMENT DISORDER SYMPTOMS, INCLUDING BRADYKINESIA, DYSKINESIA, AN" elementId="ID_25" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CONTINUOUS RECORDING OF MOVEMENT DISORDER SYMPTOMS, INCLUDING BRADYKINESIA, DYSKINESIA, AN</v3:procedure>
+  <v3:procedure code="0535T" description="CONTINUOUS RECORDING OF MOVEMENT DISORDER SYMPTOMS, INCLUDING BRADYKINESIA, DYSKINESIA, AN" elementId="ID_26" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CONTINUOUS RECORDING OF MOVEMENT DISORDER SYMPTOMS, INCLUDING BRADYKINESIA, DYSKINESIA, AN</v3:procedure>
+  <v3:procedure code="0536T" description="CONTINUOUS RECORDING OF MOVEMENT DISORDER SYMPTOMS, INCLUDING BRADYKINESIA, DYSKINESIA, AN" elementId="ID_27" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CONTINUOUS RECORDING OF MOVEMENT DISORDER SYMPTOMS, INCLUDING BRADYKINESIA, DYSKINESIA, AN</v3:procedure>
+  <v3:procedure code="0537T" description="CHIMERIC ANTIGEN RECEPTOR T-CELL (CAR-T) THERAPY; HARVESTING OF BLOOD-DERIVED T LYMPHOCYTE" elementId="ID_28" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CHIMERIC ANTIGEN RECEPTOR T-CELL (CAR-T) THERAPY; HARVESTING OF BLOOD-DERIVED T LYMPHOCYTE</v3:procedure>
+  <v3:procedure code="0538T" description="CHIMERIC ANTIGEN RECEPTOR T-CELL (CAR-T) THERAPY; PREPARATION OF BLOOD-DERIVED T LYMPHOCYT" elementId="ID_29" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CHIMERIC ANTIGEN RECEPTOR T-CELL (CAR-T) THERAPY; PREPARATION OF BLOOD-DERIVED T LYMPHOCYT</v3:procedure>
+  <v3:procedure code="0539T" description="CHIMERIC ANTIGEN RECEPTOR T-CELL (CAR-T) THERAPY; RECEIPT AND PREPARATION OF CAR-T CELLS F" elementId="ID_30" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CHIMERIC ANTIGEN RECEPTOR T-CELL (CAR-T) THERAPY; RECEIPT AND PREPARATION OF CAR-T CELLS F</v3:procedure>
+  <v3:procedure code="0540T" description="CHIMERIC ANTIGEN RECEPTOR T-CELL (CAR-T) THERAPY; CAR-T CELL ADMINISTRATION, AUTOLOGOUS" elementId="ID_31" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CHIMERIC ANTIGEN RECEPTOR T-CELL (CAR-T) THERAPY; CAR-T CELL ADMINISTRATION, AUTOLOGOUS</v3:procedure>
+  <v3:procedure code="0541T" description="MYOCARDIAL IMAGING BY MAGNETOCARDIOGRAPHY (MCG) FOR DETECTION OF CARDIAC ISCHEMIA, BY SIGN" elementId="ID_32" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>MYOCARDIAL IMAGING BY MAGNETOCARDIOGRAPHY (MCG) FOR DETECTION OF CARDIAC ISCHEMIA, BY SIGN</v3:procedure>
+  <v3:procedure code="0542T" description="MYOCARDIAL IMAGING BY MAGNETOCARDIOGRAPHY (MCG) FOR DETECTION OF CARDIAC ISCHEMIA, BY SIGN" elementId="ID_33" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>MYOCARDIAL IMAGING BY MAGNETOCARDIOGRAPHY (MCG) FOR DETECTION OF CARDIAC ISCHEMIA, BY SIGN</v3:procedure>
+  <v3:procedure code="10004" description="FINE NEEDLE ASPIRATION BIOPSY, WITHOUT IMAGING GUIDANCE; EACH ADDITIONAL LESION (LIST SEPA" elementId="ID_34" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>FINE NEEDLE ASPIRATION BIOPSY, WITHOUT IMAGING GUIDANCE; EACH ADDITIONAL LESION (LIST SEPA</v3:procedure>
+  <v3:procedure code="10005" description="FINE NEEDLE ASPIRATION BIOPSY, INCLUDING ULTRASOUND GUIDANCE; FIRST LESION" elementId="ID_35" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>FINE NEEDLE ASPIRATION BIOPSY, INCLUDING ULTRASOUND GUIDANCE; FIRST LESION</v3:procedure>
+  <v3:procedure code="10006" description="FINE NEEDLE ASPIRATION BIOPSY, INCLUDING ULTRASOUND GUIDANCE; EACH ADDITIONAL LESION (LIST" elementId="ID_36" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>FINE NEEDLE ASPIRATION BIOPSY, INCLUDING ULTRASOUND GUIDANCE; EACH ADDITIONAL LESION (LIST</v3:procedure>
+  <v3:procedure code="10007" description="FINE NEEDLE ASPIRATION BIOPSY, INCLUDING FLUOROSCOPIC GUIDANCE; FIRST LESION" elementId="ID_37" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>FINE NEEDLE ASPIRATION BIOPSY, INCLUDING FLUOROSCOPIC GUIDANCE; FIRST LESION</v3:procedure>
+  <v3:procedure code="10008" description="FINE NEEDLE ASPIRATION BIOPSY, INCLUDING FLUOROSCOPIC GUIDANCE; EACH ADDITIONAL LESION (LI" elementId="ID_38" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>FINE NEEDLE ASPIRATION BIOPSY, INCLUDING FLUOROSCOPIC GUIDANCE; EACH ADDITIONAL LESION (LI</v3:procedure>
+  <v3:procedure code="10009" description="FINE NEEDLE ASPIRATION BIOPSY, INCLUDING CT GUIDANCE; FIRST LESION" elementId="ID_39" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>FINE NEEDLE ASPIRATION BIOPSY, INCLUDING CT GUIDANCE; FIRST LESION</v3:procedure>
+  <v3:procedure code="10010" description="FINE NEEDLE ASPIRATION BIOPSY, INCLUDING CT GUIDANCE; EACH ADDITIONAL LESION (LIST SEPARAT" elementId="ID_40" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>FINE NEEDLE ASPIRATION BIOPSY, INCLUDING CT GUIDANCE; EACH ADDITIONAL LESION (LIST SEPARAT</v3:procedure>
+  <v3:procedure code="10011" description="FINE NEEDLE ASPIRATION BIOPSY, INCLUDING MR GUIDANCE; FIRST LESION" elementId="ID_41" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>FINE NEEDLE ASPIRATION BIOPSY, INCLUDING MR GUIDANCE; FIRST LESION</v3:procedure>
+  <v3:procedure code="10012" description="FINE NEEDLE ASPIRATION BIOPSY, INCLUDING MR GUIDANCE; EACH ADDITIONAL LESION (LIST SEPARAT" elementId="ID_42" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>FINE NEEDLE ASPIRATION BIOPSY, INCLUDING MR GUIDANCE; EACH ADDITIONAL LESION (LIST SEPARAT</v3:procedure>
+  <v3:procedure code="11102" description="TANGENTIAL BIOPSY OF SKIN (EG, SHAVE, SCOOP, SAUCERIZE, CURETTE); SINGLE LESION" elementId="ID_43" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>TANGENTIAL BIOPSY OF SKIN (EG, SHAVE, SCOOP, SAUCERIZE, CURETTE); SINGLE LESION</v3:procedure>
+  <v3:procedure code="11103" description="TANGENTIAL BIOPSY OF SKIN (EG, SHAVE, SCOOP, SAUCERIZE, CURETTE); EACH SEPARATE/ADDITIONAL" elementId="ID_44" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>TANGENTIAL BIOPSY OF SKIN (EG, SHAVE, SCOOP, SAUCERIZE, CURETTE); EACH SEPARATE/ADDITIONAL</v3:procedure>
+  <v3:procedure code="11104" description="PUNCH BIOPSY OF SKIN (INCLUDING SIMPLE CLOSURE, WHEN PERFORMED); SINGLE LESION" elementId="ID_45" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>PUNCH BIOPSY OF SKIN (INCLUDING SIMPLE CLOSURE, WHEN PERFORMED); SINGLE LESION</v3:procedure>
+  <v3:procedure code="11105" description="PUNCH BIOPSY OF SKIN (INCLUDING SIMPLE CLOSURE, WHEN PERFORMED); EACH SEPARATE/ADDITIONAL " elementId="ID_46" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>PUNCH BIOPSY OF SKIN (INCLUDING SIMPLE CLOSURE, WHEN PERFORMED); EACH SEPARATE/ADDITIONAL </v3:procedure>
+  <v3:procedure code="11106" description="INCISIONAL BIOPSY OF SKIN (EG, WEDGE) (INCLUDING SIMPLE CLOSURE, WHEN PERFORMED); SINGLE L" elementId="ID_47" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INCISIONAL BIOPSY OF SKIN (EG, WEDGE) (INCLUDING SIMPLE CLOSURE, WHEN PERFORMED); SINGLE L</v3:procedure>
+  <v3:procedure code="11107" description="INCISIONAL BIOPSY OF SKIN (EG, WEDGE) (INCLUDING SIMPLE CLOSURE, WHEN PERFORMED); EACH SEP" elementId="ID_48" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INCISIONAL BIOPSY OF SKIN (EG, WEDGE) (INCLUDING SIMPLE CLOSURE, WHEN PERFORMED); EACH SEP</v3:procedure>
+  <v3:procedure code="20932" description="ALLOGRAFT, INCLUDES TEMPLATING, CUTTING, PLACEMENT AND INTERNAL FIXATION, WHEN PERFORMED; " elementId="ID_49" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ALLOGRAFT, INCLUDES TEMPLATING, CUTTING, PLACEMENT AND INTERNAL FIXATION, WHEN PERFORMED; </v3:procedure>
+  <v3:procedure code="20933" description="ALLOGRAFT, INCLUDES TEMPLATING, CUTTING, PLACEMENT AND INTERNAL FIXATION, WHEN PERFORMED; " elementId="ID_50" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ALLOGRAFT, INCLUDES TEMPLATING, CUTTING, PLACEMENT AND INTERNAL FIXATION, WHEN PERFORMED; </v3:procedure>
+  <v3:procedure code="20934" description="ALLOGRAFT, INCLUDES TEMPLATING, CUTTING, PLACEMENT AND INTERNAL FIXATION, WHEN PERFORMED; " elementId="ID_51" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ALLOGRAFT, INCLUDES TEMPLATING, CUTTING, PLACEMENT AND INTERNAL FIXATION, WHEN PERFORMED; </v3:procedure>
+  <v3:procedure code="27369" description="INJECTION PROCEDURE FOR CONTRAST KNEE ARTHROGRAPHY OR CONTRAST ENHANCED CT/MRI KNEE ARTHRO" elementId="ID_52" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INJECTION PROCEDURE FOR CONTRAST KNEE ARTHROGRAPHY OR CONTRAST ENHANCED CT/MRI KNEE ARTHRO</v3:procedure>
+  <v3:procedure code="33274" description="TRANSCATHETER INSERTION OR REPLACEMENT OF PERMANENT LEADLESS PACEMAKER, RIGHT VENTRICULAR," elementId="ID_53" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>TRANSCATHETER INSERTION OR REPLACEMENT OF PERMANENT LEADLESS PACEMAKER, RIGHT VENTRICULAR,</v3:procedure>
+  <v3:procedure code="33275" description="TRANSCATHETER REMOVAL OF PERMANENT LEADLESS PACEMAKER, RIGHT VENTRICULAR" elementId="ID_54" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>TRANSCATHETER REMOVAL OF PERMANENT LEADLESS PACEMAKER, RIGHT VENTRICULAR</v3:procedure>
+  <v3:procedure code="33285" description="INSERTION, SUBCUTANEOUS CARDIAC RHYTHM MONITOR, INCLUDING PROGRAMMING" elementId="ID_55" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INSERTION, SUBCUTANEOUS CARDIAC RHYTHM MONITOR, INCLUDING PROGRAMMING</v3:procedure>
+  <v3:procedure code="33286" description="REMOVAL, SUBCUTANEOUS CARDIAC RHYTHM MONITOR" elementId="ID_56" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REMOVAL, SUBCUTANEOUS CARDIAC RHYTHM MONITOR</v3:procedure>
+  <v3:procedure code="33289" description="TRANSCATHETER IMPLANTATION OF WIRELESS PULMONARY ARTERY PRESSURE SENSOR FOR LONG-TERM HEMO" elementId="ID_57" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>TRANSCATHETER IMPLANTATION OF WIRELESS PULMONARY ARTERY PRESSURE SENSOR FOR LONG-TERM HEMO</v3:procedure>
+  <v3:procedure code="33440" description="REPLACEMENT, AORTIC VALVE; BY TRANSLOCATION OF AUTOLOGOUS PULMONARY VALVE AND TRANSVENTRIC" elementId="ID_58" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REPLACEMENT, AORTIC VALVE; BY TRANSLOCATION OF AUTOLOGOUS PULMONARY VALVE AND TRANSVENTRIC</v3:procedure>
+  <v3:procedure code="33866" description="AORTIC HEMIARCH GRAFT INCLUDING ISOLATION AND CONTROL OF THE ARCH VESSELS, BEVELED OPEN DI" elementId="ID_59" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>AORTIC HEMIARCH GRAFT INCLUDING ISOLATION AND CONTROL OF THE ARCH VESSELS, BEVELED OPEN DI</v3:procedure>
+  <v3:procedure code="36572" description="INSERTION OF PERIPHERALLY INSERTED CENTRAL VENOUS CATHETER (PICC), WITHOUT SUBCUTANEOUS PO" elementId="ID_60" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INSERTION OF PERIPHERALLY INSERTED CENTRAL VENOUS CATHETER (PICC), WITHOUT SUBCUTANEOUS PO</v3:procedure>
+  <v3:procedure code="36573" description="INSERTION OF PERIPHERALLY INSERTED CENTRAL VENOUS CATHETER (PICC), WITHOUT SUBCUTANEOUS PO" elementId="ID_61" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INSERTION OF PERIPHERALLY INSERTED CENTRAL VENOUS CATHETER (PICC), WITHOUT SUBCUTANEOUS PO</v3:procedure>
+  <v3:procedure code="38531" description="BIOPSY OR EXCISION OF LYMPH NODE(S); OPEN, INGUINOFEMORAL NODE(S)" elementId="ID_62" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>BIOPSY OR EXCISION OF LYMPH NODE(S); OPEN, INGUINOFEMORAL NODE(S)</v3:procedure>
+  <v3:procedure code="43762" description="REPLACEMENT OF GASTROSTOMY TUBE, PERCUTANEOUS, INCLUDES REMOVAL, WHEN PERFORMED, WITHOUT I" elementId="ID_63" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REPLACEMENT OF GASTROSTOMY TUBE, PERCUTANEOUS, INCLUDES REMOVAL, WHEN PERFORMED, WITHOUT I</v3:procedure>
+  <v3:procedure code="43763" description="REPLACEMENT OF GASTROSTOMY TUBE, PERCUTANEOUS, INCLUDES REMOVAL, WHEN PERFORMED, WITHOUT I" elementId="ID_64" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REPLACEMENT OF GASTROSTOMY TUBE, PERCUTANEOUS, INCLUDES REMOVAL, WHEN PERFORMED, WITHOUT I</v3:procedure>
+  <v3:procedure code="50436" description="DILATION OF EXISTING TRACT, PERCUTANEOUS, FOR AN ENDOUROLOGIC PROCEDURE INCLUDING IMAGING " elementId="ID_65" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>DILATION OF EXISTING TRACT, PERCUTANEOUS, FOR AN ENDOUROLOGIC PROCEDURE INCLUDING IMAGING </v3:procedure>
+  <v3:procedure code="50437" description="DILATION OF EXISTING TRACT, PERCUTANEOUS, FOR AN ENDOUROLOGIC PROCEDURE INCLUDING IMAGING " elementId="ID_66" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>DILATION OF EXISTING TRACT, PERCUTANEOUS, FOR AN ENDOUROLOGIC PROCEDURE INCLUDING IMAGING </v3:procedure>
+  <v3:procedure code="53854" description="TRANSURETHRAL DESTRUCTION OF PROSTATE TISSUE; BY RADIOFREQUENCY GENERATED WATER VAPOR THER" elementId="ID_67" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>TRANSURETHRAL DESTRUCTION OF PROSTATE TISSUE; BY RADIOFREQUENCY GENERATED WATER VAPOR THER</v3:procedure>
+  <v3:procedure code="76391" description="MAGNETIC RESONANCE (EG, VIBRATION) ELASTOGRAPHY" elementId="ID_68" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>MAGNETIC RESONANCE (EG, VIBRATION) ELASTOGRAPHY</v3:procedure>
+  <v3:procedure code="76978" description="ULTRASOUND, TARGETED DYNAMIC MICROBUBBLE SONOGRAPHIC CONTRAST CHARACTERIZATION (NON-CARDIA" elementId="ID_69" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ULTRASOUND, TARGETED DYNAMIC MICROBUBBLE SONOGRAPHIC CONTRAST CHARACTERIZATION (NON-CARDIA</v3:procedure>
+  <v3:procedure code="76979" description="ULTRASOUND, TARGETED DYNAMIC MICROBUBBLE SONOGRAPHIC CONTRAST CHARACTERIZATION (NON-CARDIA" elementId="ID_70" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ULTRASOUND, TARGETED DYNAMIC MICROBUBBLE SONOGRAPHIC CONTRAST CHARACTERIZATION (NON-CARDIA</v3:procedure>
+  <v3:procedure code="76981" description="ULTRASOUND, ELASTOGRAPHY; PARENCHYMA (EG, ORGAN)" elementId="ID_71" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ULTRASOUND, ELASTOGRAPHY; PARENCHYMA (EG, ORGAN)</v3:procedure>
+  <v3:procedure code="76982" description="ULTRASOUND, ELASTOGRAPHY; FIRST TARGET LESION" elementId="ID_72" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ULTRASOUND, ELASTOGRAPHY; FIRST TARGET LESION</v3:procedure>
+  <v3:procedure code="76983" description="ULTRASOUND, ELASTOGRAPHY; EACH ADDITIONAL TARGET LESION (LIST SEPARATELY IN ADDITION TO CO" elementId="ID_73" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ULTRASOUND, ELASTOGRAPHY; EACH ADDITIONAL TARGET LESION (LIST SEPARATELY IN ADDITION TO CO</v3:procedure>
+  <v3:procedure code="77046" description="MAGNETIC RESONANCE IMAGING, BREAST, WITHOUT CONTRAST MATERIAL; UNILATERAL" elementId="ID_74" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>MAGNETIC RESONANCE IMAGING, BREAST, WITHOUT CONTRAST MATERIAL; UNILATERAL</v3:procedure>
+  <v3:procedure code="77047" description="MAGNETIC RESONANCE IMAGING, BREAST, WITHOUT CONTRAST MATERIAL; BILATERAL" elementId="ID_75" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>MAGNETIC RESONANCE IMAGING, BREAST, WITHOUT CONTRAST MATERIAL; BILATERAL</v3:procedure>
+  <v3:procedure code="77048" description="MAGNETIC RESONANCE IMAGING, BREAST, WITHOUT AND WITH CONTRAST MATERIAL(S), INCLUDING COMPU" elementId="ID_76" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>MAGNETIC RESONANCE IMAGING, BREAST, WITHOUT AND WITH CONTRAST MATERIAL(S), INCLUDING COMPU</v3:procedure>
+  <v3:procedure code="77049" description="MAGNETIC RESONANCE IMAGING, BREAST, WITHOUT AND WITH CONTRAST MATERIAL(S), INCLUDING COMPU" elementId="ID_77" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>MAGNETIC RESONANCE IMAGING, BREAST, WITHOUT AND WITH CONTRAST MATERIAL(S), INCLUDING COMPU</v3:procedure>
+  <v3:procedure code="81163" description="BRCA1 (BRCA1, DNA REPAIR ASSOCIATED), BRCA2 (BRCA2, DNA REPAIR ASSOCIATED) (EG, HEREDITARY" elementId="ID_78" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>BRCA1 (BRCA1, DNA REPAIR ASSOCIATED), BRCA2 (BRCA2, DNA REPAIR ASSOCIATED) (EG, HEREDITARY</v3:procedure>
+  <v3:procedure code="81164" description="BRCA1 (BRCA1, DNA REPAIR ASSOCIATED), BRCA2 (BRCA2, DNA REPAIR ASSOCIATED) (EG, HEREDITARY" elementId="ID_79" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>BRCA1 (BRCA1, DNA REPAIR ASSOCIATED), BRCA2 (BRCA2, DNA REPAIR ASSOCIATED) (EG, HEREDITARY</v3:procedure>
+  <v3:procedure code="81165" description="BRCA1 (BRCA1, DNA REPAIR ASSOCIATED) (EG, HEREDITARY BREAST AND OVARIAN CANCER) GENE ANALY" elementId="ID_80" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>BRCA1 (BRCA1, DNA REPAIR ASSOCIATED) (EG, HEREDITARY BREAST AND OVARIAN CANCER) GENE ANALY</v3:procedure>
+  <v3:procedure code="81166" description="BRCA1 (BRCA1, DNA REPAIR ASSOCIATED) (EG, HEREDITARY BREAST AND OVARIAN CANCER) GENE ANALY" elementId="ID_81" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>BRCA1 (BRCA1, DNA REPAIR ASSOCIATED) (EG, HEREDITARY BREAST AND OVARIAN CANCER) GENE ANALY</v3:procedure>
+  <v3:procedure code="81167" description="BRCA2 (BRCA2, DNA REPAIR ASSOCIATED) (EG, HEREDITARY BREAST AND OVARIAN CANCER) GENE ANALY" elementId="ID_82" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>BRCA2 (BRCA2, DNA REPAIR ASSOCIATED) (EG, HEREDITARY BREAST AND OVARIAN CANCER) GENE ANALY</v3:procedure>
+  <v3:procedure code="81171" description="AFF2 (AF4/FMR2 FAMILY, MEMBER 2 [FMR2]) (EG, FRAGILE X MENTAL RETARDATION 2 [FRAXE]) GENE " elementId="ID_83" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>AFF2 (AF4/FMR2 FAMILY, MEMBER 2 [FMR2]) (EG, FRAGILE X MENTAL RETARDATION 2 [FRAXE]) GENE </v3:procedure>
+  <v3:procedure code="81172" description="AFF2 (AF4/FMR2 FAMILY, MEMBER 2 [FMR2]) (EG, FRAGILE X MENTAL RETARDATION 2 [FRAXE]) GENE " elementId="ID_84" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>AFF2 (AF4/FMR2 FAMILY, MEMBER 2 [FMR2]) (EG, FRAGILE X MENTAL RETARDATION 2 [FRAXE]) GENE </v3:procedure>
+  <v3:procedure code="81173" description="AR (ANDROGEN RECEPTOR) (EG, SPINAL AND BULBAR MUSCULAR ATROPHY, KENNEDY DISEASE, X CHROMOS" elementId="ID_85" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>AR (ANDROGEN RECEPTOR) (EG, SPINAL AND BULBAR MUSCULAR ATROPHY, KENNEDY DISEASE, X CHROMOS</v3:procedure>
+  <v3:procedure code="81174" description="AR (ANDROGEN RECEPTOR) (EG, SPINAL AND BULBAR MUSCULAR ATROPHY, KENNEDY DISEASE, X CHROMOS" elementId="ID_86" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>AR (ANDROGEN RECEPTOR) (EG, SPINAL AND BULBAR MUSCULAR ATROPHY, KENNEDY DISEASE, X CHROMOS</v3:procedure>
+  <v3:procedure code="81177" description="ATN1 (ATROPHIN 1) (EG, DENTATORUBRAL-PALLIDOLUYSIAN ATROPHY) GENE ANALYSIS, EVALUATION TO " elementId="ID_87" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ATN1 (ATROPHIN 1) (EG, DENTATORUBRAL-PALLIDOLUYSIAN ATROPHY) GENE ANALYSIS, EVALUATION TO </v3:procedure>
+  <v3:procedure code="81178" description="ATXN1 (ATAXIN 1) (EG, SPINOCEREBELLAR ATAXIA) GENE ANALYSIS, EVALUATION TO DETECT ABNORMAL" elementId="ID_88" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ATXN1 (ATAXIN 1) (EG, SPINOCEREBELLAR ATAXIA) GENE ANALYSIS, EVALUATION TO DETECT ABNORMAL</v3:procedure>
+  <v3:procedure code="81179" description="ATXN2 (ATAXIN 2) (EG, SPINOCEREBELLAR ATAXIA) GENE ANALYSIS, EVALUATION TO DETECT ABNORMAL" elementId="ID_89" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ATXN2 (ATAXIN 2) (EG, SPINOCEREBELLAR ATAXIA) GENE ANALYSIS, EVALUATION TO DETECT ABNORMAL</v3:procedure>
+  <v3:procedure code="81180" description="ATXN3 (ATAXIN 3) (EG, SPINOCEREBELLAR ATAXIA, MACHADO-JOSEPH DISEASE) GENE ANALYSIS, EVALU" elementId="ID_90" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ATXN3 (ATAXIN 3) (EG, SPINOCEREBELLAR ATAXIA, MACHADO-JOSEPH DISEASE) GENE ANALYSIS, EVALU</v3:procedure>
+  <v3:procedure code="81181" description="ATXN7 (ATAXIN 7) (EG, SPINOCEREBELLAR ATAXIA) GENE ANALYSIS, EVALUATION TO DETECT ABNORMAL" elementId="ID_91" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ATXN7 (ATAXIN 7) (EG, SPINOCEREBELLAR ATAXIA) GENE ANALYSIS, EVALUATION TO DETECT ABNORMAL</v3:procedure>
+  <v3:procedure code="81182" description="ATXN8OS (ATXN8 OPPOSITE STRAND [NON-PROTEIN CODING]) (EG, SPINOCEREBELLAR ATAXIA) GENE ANA" elementId="ID_92" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ATXN8OS (ATXN8 OPPOSITE STRAND [NON-PROTEIN CODING]) (EG, SPINOCEREBELLAR ATAXIA) GENE ANA</v3:procedure>
+  <v3:procedure code="81183" description="ATXN10 (ATAXIN 10) (EG, SPINOCEREBELLAR ATAXIA) GENE ANALYSIS, EVALUATION TO DETECT ABNORM" elementId="ID_93" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ATXN10 (ATAXIN 10) (EG, SPINOCEREBELLAR ATAXIA) GENE ANALYSIS, EVALUATION TO DETECT ABNORM</v3:procedure>
+  <v3:procedure code="81184" description="CACNA1A (CALCIUM VOLTAGE-GATED CHANNEL SUBUNIT ALPHA1 A) (EG, SPINOCEREBELLAR ATAXIA) GENE" elementId="ID_94" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CACNA1A (CALCIUM VOLTAGE-GATED CHANNEL SUBUNIT ALPHA1 A) (EG, SPINOCEREBELLAR ATAXIA) GENE</v3:procedure>
+  <v3:procedure code="81185" description="CACNA1A (CALCIUM VOLTAGE-GATED CHANNEL SUBUNIT ALPHA1 A) (EG, SPINOCEREBELLAR ATAXIA) GENE" elementId="ID_95" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CACNA1A (CALCIUM VOLTAGE-GATED CHANNEL SUBUNIT ALPHA1 A) (EG, SPINOCEREBELLAR ATAXIA) GENE</v3:procedure>
+  <v3:procedure code="81186" description="CACNA1A (CALCIUM VOLTAGE-GATED CHANNEL SUBUNIT ALPHA1 A) (EG, SPINOCEREBELLAR ATAXIA) GENE" elementId="ID_96" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CACNA1A (CALCIUM VOLTAGE-GATED CHANNEL SUBUNIT ALPHA1 A) (EG, SPINOCEREBELLAR ATAXIA) GENE</v3:procedure>
+  <v3:procedure code="81187" description="CNBP (CCHC-TYPE ZINC FINGER NUCLEIC ACID BINDING PROTEIN) (EG, MYOTONIC DYSTROPHY TYPE 2) " elementId="ID_97" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CNBP (CCHC-TYPE ZINC FINGER NUCLEIC ACID BINDING PROTEIN) (EG, MYOTONIC DYSTROPHY TYPE 2) </v3:procedure>
+  <v3:procedure code="81188" description="CSTB (CYSTATIN B) (EG, UNVERRICHT-LUNDBORG DISEASE) GENE ANALYSIS; EVALUATION TO DETECT AB" elementId="ID_98" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CSTB (CYSTATIN B) (EG, UNVERRICHT-LUNDBORG DISEASE) GENE ANALYSIS; EVALUATION TO DETECT AB</v3:procedure>
+  <v3:procedure code="81189" description="CSTB (CYSTATIN B) (EG, UNVERRICHT-LUNDBORG DISEASE) GENE ANALYSIS; FULL GENE SEQUENCE" elementId="ID_99" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CSTB (CYSTATIN B) (EG, UNVERRICHT-LUNDBORG DISEASE) GENE ANALYSIS; FULL GENE SEQUENCE</v3:procedure>
+  <v3:procedure code="81190" description="CSTB (CYSTATIN B) (EG, UNVERRICHT-LUNDBORG DISEASE) GENE ANALYSIS; KNOWN FAMILIAL VARIANT(" elementId="ID_100" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CSTB (CYSTATIN B) (EG, UNVERRICHT-LUNDBORG DISEASE) GENE ANALYSIS; KNOWN FAMILIAL VARIANT(</v3:procedure>
+  <v3:procedure code="81204" description="AR (ANDROGEN RECEPTOR) (EG, SPINAL AND BULBAR MUSCULAR ATROPHY, KENNEDY DISEASE, X CHROMOS" elementId="ID_101" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>AR (ANDROGEN RECEPTOR) (EG, SPINAL AND BULBAR MUSCULAR ATROPHY, KENNEDY DISEASE, X CHROMOS</v3:procedure>
+  <v3:procedure code="81233" description="BTK (BRUTON'S TYROSINE KINASE) (EG, CHRONIC LYMPHOCYTIC LEUKEMIA) GENE ANALYSIS, COMMON VA" elementId="ID_102" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>BTK (BRUTON'S TYROSINE KINASE) (EG, CHRONIC LYMPHOCYTIC LEUKEMIA) GENE ANALYSIS, COMMON VA</v3:procedure>
+  <v3:procedure code="81234" description="DMPK (DM1 PROTEIN KINASE) (EG, MYOTONIC DYSTROPHY TYPE 1) GENE ANALYSIS; EVALUATION TO DET" elementId="ID_103" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>DMPK (DM1 PROTEIN KINASE) (EG, MYOTONIC DYSTROPHY TYPE 1) GENE ANALYSIS; EVALUATION TO DET</v3:procedure>
+  <v3:procedure code="81236" description="EZH2 (ENHANCER OF ZESTE 2 POLYCOMB REPRESSIVE COMPLEX 2 SUBUNIT) (EG, MYELODYSPLASTIC SYND" elementId="ID_104" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>EZH2 (ENHANCER OF ZESTE 2 POLYCOMB REPRESSIVE COMPLEX 2 SUBUNIT) (EG, MYELODYSPLASTIC SYND</v3:procedure>
+  <v3:procedure code="81237" description="EZH2 (ENHANCER OF ZESTE 2 POLYCOMB REPRESSIVE COMPLEX 2 SUBUNIT) (EG, DIFFUSE LARGE B-CELL" elementId="ID_105" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>EZH2 (ENHANCER OF ZESTE 2 POLYCOMB REPRESSIVE COMPLEX 2 SUBUNIT) (EG, DIFFUSE LARGE B-CELL</v3:procedure>
+  <v3:procedure code="81239" description="DMPK (DM1 PROTEIN KINASE) (EG, MYOTONIC DYSTROPHY TYPE 1) GENE ANALYSIS; CHARACTERIZATION " elementId="ID_106" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>DMPK (DM1 PROTEIN KINASE) (EG, MYOTONIC DYSTROPHY TYPE 1) GENE ANALYSIS; CHARACTERIZATION </v3:procedure>
+  <v3:procedure code="81271" description="HTT (HUNTINGTIN) (EG, HUNTINGTON DISEASE) GENE ANALYSIS; EVALUATION TO DETECT ABNORMAL (EG" elementId="ID_107" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>HTT (HUNTINGTIN) (EG, HUNTINGTON DISEASE) GENE ANALYSIS; EVALUATION TO DETECT ABNORMAL (EG</v3:procedure>
+  <v3:procedure code="81274" description="HTT (HUNTINGTIN) (EG, HUNTINGTON DISEASE) GENE ANALYSIS; CHARACTERIZATION OF ALLELES (EG, " elementId="ID_108" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>HTT (HUNTINGTIN) (EG, HUNTINGTON DISEASE) GENE ANALYSIS; CHARACTERIZATION OF ALLELES (EG, </v3:procedure>
+  <v3:procedure code="81284" description="FXN (FRATAXIN) (EG, FRIEDREICH ATAXIA) GENE ANALYSIS; EVALUATION TO DETECT ABNORMAL (EXPAN" elementId="ID_109" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>FXN (FRATAXIN) (EG, FRIEDREICH ATAXIA) GENE ANALYSIS; EVALUATION TO DETECT ABNORMAL (EXPAN</v3:procedure>
+  <v3:procedure code="81285" description="FXN (FRATAXIN) (EG, FRIEDREICH ATAXIA) GENE ANALYSIS; CHARACTERIZATION OF ALLELES (EG, EXP" elementId="ID_110" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>FXN (FRATAXIN) (EG, FRIEDREICH ATAXIA) GENE ANALYSIS; CHARACTERIZATION OF ALLELES (EG, EXP</v3:procedure>
+  <v3:procedure code="81286" description="FXN (FRATAXIN) (EG, FRIEDREICH ATAXIA) GENE ANALYSIS; FULL GENE SEQUENCE" elementId="ID_111" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>FXN (FRATAXIN) (EG, FRIEDREICH ATAXIA) GENE ANALYSIS; FULL GENE SEQUENCE</v3:procedure>
+  <v3:procedure code="81289" description="FXN (FRATAXIN) (EG, FRIEDREICH ATAXIA) GENE ANALYSIS; KNOWN FAMILIAL VARIANT(S)" elementId="ID_112" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>FXN (FRATAXIN) (EG, FRIEDREICH ATAXIA) GENE ANALYSIS; KNOWN FAMILIAL VARIANT(S)</v3:procedure>
+  <v3:procedure code="81305" description="MYD88 (MYELOID DIFFERENTIATION PRIMARY RESPONSE 88) (EG, WALDENSTROM'S MACROGLOBULINEMIA, " elementId="ID_113" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>MYD88 (MYELOID DIFFERENTIATION PRIMARY RESPONSE 88) (EG, WALDENSTROM'S MACROGLOBULINEMIA, </v3:procedure>
+  <v3:procedure code="81306" description="NUDT15 (NUDIX HYDROLASE 15) (EG, DRUG METABOLISM) GENE ANALYSIS, COMMON VARIANT(S) (EG, *2" elementId="ID_114" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>NUDT15 (NUDIX HYDROLASE 15) (EG, DRUG METABOLISM) GENE ANALYSIS, COMMON VARIANT(S) (EG, *2</v3:procedure>
+  <v3:procedure code="81312" description="PABPN1 (POLY[A] BINDING PROTEIN NUCLEAR 1) (EG, OCULOPHARYNGEAL MUSCULAR DYSTROPHY) GENE A" elementId="ID_115" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>PABPN1 (POLY[A] BINDING PROTEIN NUCLEAR 1) (EG, OCULOPHARYNGEAL MUSCULAR DYSTROPHY) GENE A</v3:procedure>
+  <v3:procedure code="81320" description="PLCG2 (PHOSPHOLIPASE C GAMMA 2) (EG, CHRONIC LYMPHOCYTIC LEUKEMIA) GENE ANALYSIS, COMMON V" elementId="ID_116" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>PLCG2 (PHOSPHOLIPASE C GAMMA 2) (EG, CHRONIC LYMPHOCYTIC LEUKEMIA) GENE ANALYSIS, COMMON V</v3:procedure>
+  <v3:procedure code="81329" description="SMN1 (SURVIVAL OF MOTOR NEURON 1, TELOMERIC) (EG, SPINAL MUSCULAR ATROPHY) GENE ANALYSIS; " elementId="ID_117" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>SMN1 (SURVIVAL OF MOTOR NEURON 1, TELOMERIC) (EG, SPINAL MUSCULAR ATROPHY) GENE ANALYSIS; </v3:procedure>
+  <v3:procedure code="81333" description="TGFBI (TRANSFORMING GROWTH FACTOR BETA-INDUCED) (EG, CORNEAL DYSTROPHY) GENE ANALYSIS, COM" elementId="ID_118" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>TGFBI (TRANSFORMING GROWTH FACTOR BETA-INDUCED) (EG, CORNEAL DYSTROPHY) GENE ANALYSIS, COM</v3:procedure>
+  <v3:procedure code="81336" description="SMN1 (SURVIVAL OF MOTOR NEURON 1, TELOMERIC) (EG, SPINAL MUSCULAR ATROPHY) GENE ANALYSIS; " elementId="ID_119" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>SMN1 (SURVIVAL OF MOTOR NEURON 1, TELOMERIC) (EG, SPINAL MUSCULAR ATROPHY) GENE ANALYSIS; </v3:procedure>
+  <v3:procedure code="81337" description="SMN1 (SURVIVAL OF MOTOR NEURON 1, TELOMERIC) (EG, SPINAL MUSCULAR ATROPHY) GENE ANALYSIS; " elementId="ID_120" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>SMN1 (SURVIVAL OF MOTOR NEURON 1, TELOMERIC) (EG, SPINAL MUSCULAR ATROPHY) GENE ANALYSIS; </v3:procedure>
+  <v3:procedure code="81343" description="PPP2R2B (PROTEIN PHOSPHATASE 2 REGULATORY SUBUNIT BBETA) (EG, SPINOCEREBELLAR ATAXIA) GENE" elementId="ID_121" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>PPP2R2B (PROTEIN PHOSPHATASE 2 REGULATORY SUBUNIT BBETA) (EG, SPINOCEREBELLAR ATAXIA) GENE</v3:procedure>
+  <v3:procedure code="81344" description="TBP (TATA BOX BINDING PROTEIN) (EG, SPINOCEREBELLAR ATAXIA) GENE ANALYSIS, EVALUATION TO D" elementId="ID_122" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>TBP (TATA BOX BINDING PROTEIN) (EG, SPINOCEREBELLAR ATAXIA) GENE ANALYSIS, EVALUATION TO D</v3:procedure>
+  <v3:procedure code="81345" description="TERT (TELOMERASE REVERSE TRANSCRIPTASE) (EG, THYROID CARCINOMA, GLIOBLASTOMA MULTIFORME) G" elementId="ID_123" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>TERT (TELOMERASE REVERSE TRANSCRIPTASE) (EG, THYROID CARCINOMA, GLIOBLASTOMA MULTIFORME) G</v3:procedure>
+  <v3:procedure code="81443" description="GENETIC TESTING FOR SEVERE INHERITED CONDITIONS (EG, CYSTIC FIBROSIS, ASHKENAZI JEWISH-ASS" elementId="ID_124" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>GENETIC TESTING FOR SEVERE INHERITED CONDITIONS (EG, CYSTIC FIBROSIS, ASHKENAZI JEWISH-ASS</v3:procedure>
+  <v3:procedure code="81518" description="ONCOLOGY (BREAST), MRNA, GENE EXPRESSION PROFILING BY REAL-TIME RT-PCR OF 11 GENES (7 CONT" elementId="ID_125" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ONCOLOGY (BREAST), MRNA, GENE EXPRESSION PROFILING BY REAL-TIME RT-PCR OF 11 GENES (7 CONT</v3:procedure>
+  <v3:procedure code="81596" description="INFECTIOUS DISEASE, CHRONIC HEPATITIS C VIRUS (HCV) INFECTION, SIX BIOCHEMICAL ASSAYS (ALT" elementId="ID_126" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INFECTIOUS DISEASE, CHRONIC HEPATITIS C VIRUS (HCV) INFECTION, SIX BIOCHEMICAL ASSAYS (ALT</v3:procedure>
+  <v3:procedure code="82642" description="DIHYDROTESTOSTERONE (DHT)" elementId="ID_127" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>DIHYDROTESTOSTERONE (DHT)</v3:procedure>
+  <v3:procedure code="83722" description="LIPOPROTEIN, DIRECT MEASUREMENT; SMALL DENSE LDL CHOLESTEROL" elementId="ID_128" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>LIPOPROTEIN, DIRECT MEASUREMENT; SMALL DENSE LDL CHOLESTEROL</v3:procedure>
+  <v3:procedure code="90689" description="INFLUENZA VIRUS VACCINE QUADRIVALENT (IIV4), INACTIVATED, ADJUVANTED, PRESERVATIVE FREE, 0" elementId="ID_129" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INFLUENZA VIRUS VACCINE QUADRIVALENT (IIV4), INACTIVATED, ADJUVANTED, PRESERVATIVE FREE, 0</v3:procedure>
+  <v3:procedure code="92273" description="ELECTRORETINOGRAPHY (ERG), WITH INTERPRETATION AND REPORT; FULL FIELD (IE, FFERG, FLASH ER" elementId="ID_130" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ELECTRORETINOGRAPHY (ERG), WITH INTERPRETATION AND REPORT; FULL FIELD (IE, FFERG, FLASH ER</v3:procedure>
+  <v3:procedure code="92274" description="ELECTRORETINOGRAPHY (ERG), WITH INTERPRETATION AND REPORT; MULTIFOCAL (MFERG)" elementId="ID_131" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ELECTRORETINOGRAPHY (ERG), WITH INTERPRETATION AND REPORT; MULTIFOCAL (MFERG)</v3:procedure>
+  <v3:procedure code="93264" description="REMOTE MONITORING OF A WIRELESS PULMONARY ARTERY PRESSURE SENSOR FOR UP TO 30 DAYS, INCLUD" elementId="ID_132" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REMOTE MONITORING OF A WIRELESS PULMONARY ARTERY PRESSURE SENSOR FOR UP TO 30 DAYS, INCLUD</v3:procedure>
+  <v3:procedure code="95836" description="ELECTROCORTICOGRAM FROM AN IMPLANTED BRAIN NEUROSTIMULATOR PULSE GENERATOR/TRANSMITTER, IN" elementId="ID_133" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ELECTROCORTICOGRAM FROM AN IMPLANTED BRAIN NEUROSTIMULATOR PULSE GENERATOR/TRANSMITTER, IN</v3:procedure>
+  <v3:procedure code="95976" description="ELECTRONIC ANALYSIS OF IMPLANTED NEUROSTIMULATOR PULSE GENERATOR/TRANSMITTER (EG, CONTACT " elementId="ID_134" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ELECTRONIC ANALYSIS OF IMPLANTED NEUROSTIMULATOR PULSE GENERATOR/TRANSMITTER (EG, CONTACT </v3:procedure>
+  <v3:procedure code="95977" description="ELECTRONIC ANALYSIS OF IMPLANTED NEUROSTIMULATOR PULSE GENERATOR/TRANSMITTER (EG, CONTACT " elementId="ID_135" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ELECTRONIC ANALYSIS OF IMPLANTED NEUROSTIMULATOR PULSE GENERATOR/TRANSMITTER (EG, CONTACT </v3:procedure>
+  <v3:procedure code="95983" description="ELECTRONIC ANALYSIS OF IMPLANTED NEUROSTIMULATOR PULSE GENERATOR/TRANSMITTER (EG, CONTACT " elementId="ID_136" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ELECTRONIC ANALYSIS OF IMPLANTED NEUROSTIMULATOR PULSE GENERATOR/TRANSMITTER (EG, CONTACT </v3:procedure>
+  <v3:procedure code="95984" description="ELECTRONIC ANALYSIS OF IMPLANTED NEUROSTIMULATOR PULSE GENERATOR/TRANSMITTER (EG, CONTACT " elementId="ID_137" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ELECTRONIC ANALYSIS OF IMPLANTED NEUROSTIMULATOR PULSE GENERATOR/TRANSMITTER (EG, CONTACT </v3:procedure>
+  <v3:procedure code="96112" description="DEVELOPMENTAL TEST ADMINISTRATION (INCLUDING ASSESSMENT OF FINE AND/OR GROSS MOTOR, LANGUA" elementId="ID_138" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>DEVELOPMENTAL TEST ADMINISTRATION (INCLUDING ASSESSMENT OF FINE AND/OR GROSS MOTOR, LANGUA</v3:procedure>
+  <v3:procedure code="96113" description="DEVELOPMENTAL TEST ADMINISTRATION (INCLUDING ASSESSMENT OF FINE AND/OR GROSS MOTOR, LANGUA" elementId="ID_139" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>DEVELOPMENTAL TEST ADMINISTRATION (INCLUDING ASSESSMENT OF FINE AND/OR GROSS MOTOR, LANGUA</v3:procedure>
+  <v3:procedure code="96121" description="NEUROBEHAVIORAL STATUS EXAM (CLINICAL ASSESSMENT OF THINKING, REASONING AND JUDGMENT, [EG," elementId="ID_140" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>NEUROBEHAVIORAL STATUS EXAM (CLINICAL ASSESSMENT OF THINKING, REASONING AND JUDGMENT, [EG,</v3:procedure>
+  <v3:procedure code="96130" description="PSYCHOLOGICAL TESTING EVALUATION SERVICES BY PHYSICIAN OR OTHER QUALIFIED HEALTH CARE PROF" elementId="ID_141" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>PSYCHOLOGICAL TESTING EVALUATION SERVICES BY PHYSICIAN OR OTHER QUALIFIED HEALTH CARE PROF</v3:procedure>
+  <v3:procedure code="96131" description="PSYCHOLOGICAL TESTING EVALUATION SERVICES BY PHYSICIAN OR OTHER QUALIFIED HEALTH CARE PROF" elementId="ID_142" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>PSYCHOLOGICAL TESTING EVALUATION SERVICES BY PHYSICIAN OR OTHER QUALIFIED HEALTH CARE PROF</v3:procedure>
+  <v3:procedure code="96132" description="NEUROPSYCHOLOGICAL TESTING EVALUATION SERVICES BY PHYSICIAN OR OTHER QUALIFIED HEALTH CARE" elementId="ID_143" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>NEUROPSYCHOLOGICAL TESTING EVALUATION SERVICES BY PHYSICIAN OR OTHER QUALIFIED HEALTH CARE</v3:procedure>
+  <v3:procedure code="96133" description="NEUROPSYCHOLOGICAL TESTING EVALUATION SERVICES BY PHYSICIAN OR OTHER QUALIFIED HEALTH CARE" elementId="ID_144" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>NEUROPSYCHOLOGICAL TESTING EVALUATION SERVICES BY PHYSICIAN OR OTHER QUALIFIED HEALTH CARE</v3:procedure>
+  <v3:procedure code="96136" description="PSYCHOLOGICAL OR NEUROPSYCHOLOGICAL TEST ADMINISTRATION AND SCORING BY PHYSICIAN OR OTHER " elementId="ID_145" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>PSYCHOLOGICAL OR NEUROPSYCHOLOGICAL TEST ADMINISTRATION AND SCORING BY PHYSICIAN OR OTHER </v3:procedure>
+  <v3:procedure code="96137" description="PSYCHOLOGICAL OR NEUROPSYCHOLOGICAL TEST ADMINISTRATION AND SCORING BY PHYSICIAN OR OTHER " elementId="ID_146" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>PSYCHOLOGICAL OR NEUROPSYCHOLOGICAL TEST ADMINISTRATION AND SCORING BY PHYSICIAN OR OTHER </v3:procedure>
+  <v3:procedure code="96138" description="PSYCHOLOGICAL OR NEUROPSYCHOLOGICAL TEST ADMINISTRATION AND SCORING BY TECHNICIAN, TWO OR " elementId="ID_147" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>PSYCHOLOGICAL OR NEUROPSYCHOLOGICAL TEST ADMINISTRATION AND SCORING BY TECHNICIAN, TWO OR </v3:procedure>
+  <v3:procedure code="96139" description="PSYCHOLOGICAL OR NEUROPSYCHOLOGICAL TEST ADMINISTRATION AND SCORING BY TECHNICIAN, TWO OR " elementId="ID_148" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>PSYCHOLOGICAL OR NEUROPSYCHOLOGICAL TEST ADMINISTRATION AND SCORING BY TECHNICIAN, TWO OR </v3:procedure>
+  <v3:procedure code="96146" description="PSYCHOLOGICAL OR NEUROPSYCHOLOGICAL TEST ADMINISTRATION, WITH SINGLE AUTOMATED, STANDARDIZ" elementId="ID_149" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>PSYCHOLOGICAL OR NEUROPSYCHOLOGICAL TEST ADMINISTRATION, WITH SINGLE AUTOMATED, STANDARDIZ</v3:procedure>
+  <v3:procedure code="97151" description="BEHAVIOR IDENTIFICATION ASSESSMENT, ADMINISTERED BY A PHYSICIAN OR OTHER QUALIFIED HEALTH " elementId="ID_150" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>BEHAVIOR IDENTIFICATION ASSESSMENT, ADMINISTERED BY A PHYSICIAN OR OTHER QUALIFIED HEALTH </v3:procedure>
+  <v3:procedure code="97152" description="BEHAVIOR IDENTIFICATION-SUPPORTING ASSESSMENT, ADMINISTERED BY ONE TECHNICIAN UNDER THE DI" elementId="ID_151" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>BEHAVIOR IDENTIFICATION-SUPPORTING ASSESSMENT, ADMINISTERED BY ONE TECHNICIAN UNDER THE DI</v3:procedure>
+  <v3:procedure code="97153" description="ADAPTIVE BEHAVIOR TREATMENT BY PROTOCOL, ADMINISTERED BY TECHNICIAN UNDER THE DIRECTION OF" elementId="ID_152" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ADAPTIVE BEHAVIOR TREATMENT BY PROTOCOL, ADMINISTERED BY TECHNICIAN UNDER THE DIRECTION OF</v3:procedure>
+  <v3:procedure code="97154" description="GROUP ADAPTIVE BEHAVIOR TREATMENT BY PROTOCOL, ADMINISTERED BY TECHNICIAN UNDER THE DIRECT" elementId="ID_153" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>GROUP ADAPTIVE BEHAVIOR TREATMENT BY PROTOCOL, ADMINISTERED BY TECHNICIAN UNDER THE DIRECT</v3:procedure>
+  <v3:procedure code="97155" description="ADAPTIVE BEHAVIOR TREATMENT WITH PROTOCOL MODIFICATION, ADMINISTERED BY PHYSICIAN OR OTHER" elementId="ID_154" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>ADAPTIVE BEHAVIOR TREATMENT WITH PROTOCOL MODIFICATION, ADMINISTERED BY PHYSICIAN OR OTHER</v3:procedure>
+  <v3:procedure code="97156" description="FAMILY ADAPTIVE BEHAVIOR TREATMENT GUIDANCE, ADMINISTERED BY PHYSICIAN OR OTHER QUALIFIED " elementId="ID_155" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>FAMILY ADAPTIVE BEHAVIOR TREATMENT GUIDANCE, ADMINISTERED BY PHYSICIAN OR OTHER QUALIFIED </v3:procedure>
+  <v3:procedure code="97157" description="MULTIPLE-FAMILY GROUP ADAPTIVE BEHAVIOR TREATMENT GUIDANCE, ADMINISTERED BY PHYSICIAN OR O" elementId="ID_156" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>MULTIPLE-FAMILY GROUP ADAPTIVE BEHAVIOR TREATMENT GUIDANCE, ADMINISTERED BY PHYSICIAN OR O</v3:procedure>
+  <v3:procedure code="97158" description="GROUP ADAPTIVE BEHAVIOR TREATMENT WITH PROTOCOL MODIFICATION, ADMINISTERED BY PHYSICIAN OR" elementId="ID_157" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>GROUP ADAPTIVE BEHAVIOR TREATMENT WITH PROTOCOL MODIFICATION, ADMINISTERED BY PHYSICIAN OR</v3:procedure>
+  <v3:procedure code="99451" description="INTERPROFESSIONAL TELEPHONE/INTERNET/ELECTRONIC HEALTH RECORD ASSESSMENT AND MANAGEMENT SE" elementId="ID_158" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INTERPROFESSIONAL TELEPHONE/INTERNET/ELECTRONIC HEALTH RECORD ASSESSMENT AND MANAGEMENT SE</v3:procedure>
+  <v3:procedure code="99452" description="INTERPROFESSIONAL TELEPHONE/INTERNET/ELECTRONIC HEALTH RECORD REFERRAL SERVICE(S) PROVIDED" elementId="ID_159" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>INTERPROFESSIONAL TELEPHONE/INTERNET/ELECTRONIC HEALTH RECORD REFERRAL SERVICE(S) PROVIDED</v3:procedure>
+  <v3:procedure code="99453" description="REMOTE MONITORING OF PHYSIOLOGIC PARAMETER(S) (EG, WEIGHT, BLOOD PRESSURE, PULSE OXIMETRY," elementId="ID_160" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REMOTE MONITORING OF PHYSIOLOGIC PARAMETER(S) (EG, WEIGHT, BLOOD PRESSURE, PULSE OXIMETRY,</v3:procedure>
+  <v3:procedure code="99454" description="REMOTE MONITORING OF PHYSIOLOGIC PARAMETER(S) (EG, WEIGHT, BLOOD PRESSURE, PULSE OXIMETRY," elementId="ID_161" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REMOTE MONITORING OF PHYSIOLOGIC PARAMETER(S) (EG, WEIGHT, BLOOD PRESSURE, PULSE OXIMETRY,</v3:procedure>
+  <v3:procedure code="99457" description="REMOTE PHYSIOLOGIC MONITORING TREATMENT MANAGEMENT SERVICES, 20 MINUTES OR MORE OF CLINICA" elementId="ID_162" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>REMOTE PHYSIOLOGIC MONITORING TREATMENT MANAGEMENT SERVICES, 20 MINUTES OR MORE OF CLINICA</v3:procedure>
+  <v3:procedure code="99491" description="CHRONIC CARE MANAGEMENT SERVICES, PROVIDED PERSONALLY BY A PHYSICIAN OR OTHER QUALIFIED HE" elementId="ID_163" endDate="" gender="" startDate="01/01/2019">
+    <dat:dynamicFields xmlns:dat="http://healthinsurance.oracle.com/datatypes">
+      <dat:dynamicField name="UDP_PROC_TYP_DSC_LONG"/>
+    </dat:dynamicFields>CHRONIC CARE MANAGEMENT SERVICES, PROVIDED PERSONALLY BY A PHYSICIAN OR OTHER QUALIFIED HE</v3:procedure>
+</v3:procedures>
